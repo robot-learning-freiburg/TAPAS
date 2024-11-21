@@ -1,3 +1,32 @@
+# The Art of Imitation: Learning Long-Horizon Manipulation Tasks from Few Demonstrations
+Repository providing the source code for the paper "The Art of Imitation: Learning Long-Horizon Manipulation Tasks from Few Demonstrations", see the [project website](http://tapas-gmm.cs.uni-freiburg.de/) and [video](https://youtu.be/3BilJXwdXLI).
+
+Please cite the paper as follows:
+
+```
+@ARTICLE{vonhartz2024art,
+  author={von Hartz, Jan Ole and Welschehold, Tim and Valada, Abhinav and Boedecker, Joschka},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={The Art of Imitation: Learning Long-Horizon Manipulation Tasks From Few Demonstrations}, 
+  year={2024},
+  volume={9},
+  number={12},
+  pages={11369-11376},
+  doi={10.1109/LRA.2024.3487506}}
+
+```
+
+# License
+For academic usage, the code is released under the GPLv3 license. For any commercial purpose, please contact the authors.
+
+This release further builds on code released earlier projects, including
+- BASK: https://github.com/robot-learning-freiburg/bask
+- DON: https://github.com/RobotLocomotion/pytorch-dense-correspondence
+- Diffusion Policy: https://github.com/real-stanford/diffusion_policy
+- riepybdlib: https://github.com/vonHartz/riepybdlib
+
+Please also consider citing these, if you use relevant parts of the code.
+
 
 # Installation
 ## Python

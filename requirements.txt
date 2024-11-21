@@ -1,0 +1,41 @@
+numpy
+cffi
+Pillow
+pyquaternion
+html-testRunner
+setuptools
+natsort
+matplotlib
+wandb
+pynput
+matplotlib
+opencv-python
+scikit-image
+numba
+# pycuda
+opencv-contrib-python
+tqdm
+loguru
+pre-commit
+jsonpickle
+scikit-learn
+nvitop
+timm
+# maniskill2
+lovely_numpy
+lovely_tensors
+ipympl
+torch==2.1.0
+tensordict>=0.2.0
+omegaconf
+dill
+pandas
+mplib
+# for real franka robot
+# spatialmath-rospy
+# robot_io
+# pyrealsense2
+# roboticstoolbox-python
+# for diffusion policy
+# einops==0.4.1
+# diffusers==0.11.1
